@@ -5,8 +5,8 @@ Explanation About :
 
 Class 
 
-oops - keynote (ppts)
-oops - Simple Class
-oops - Constructor
-oops - Inheritance 
-oops - Overriding 
+Oops - keynote (ppts),
+Oops - Simple Class,
+Oops - Constructor,
+Oops - Inheritance,
+Oops - Overriding.
