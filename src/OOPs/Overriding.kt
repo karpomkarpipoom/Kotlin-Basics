@@ -58,6 +58,9 @@ fun main() {
     val car = CarOverRiding()
     println("CARS = ${car.Name} ${car.Model} with GST Price " + car.CalcGST())
 
+    val GST : Any = 11
+    println( "   ${GST as? Int} ---- 0 ----")
+
     val carWithTax = CalCOverRiding()
     println("CARS = ${carWithTax.Name} ${carWithTax.Model} with GST + Road Tax Price " + carWithTax.AddRoadTax())
 

@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5715f738-f664-4bc3-abcb-d801e079e233" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Modifiers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/META-INF/Kotlin-Basics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/META-INF/Kotlin-Basics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/BMW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CalCOverRiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CalCOverRiding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CarOverRiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CarOverRiding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/Ford.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/Ford.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/InterfaceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/InterfaceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/OverridingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/OverridingKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/calc$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/calc$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/message$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/message$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs/Interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Interface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPs/Overriding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Overriding.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.OOPs.InterfaceKt">
+  <component name="RunManager" selected="Kotlin.OOPs.ModifiersKt">
     <configuration name="OOPs.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin-Basics" />
       <option name="VM_PARAMETERS" />
@@ -91,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOPs.ModifiersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin-Basics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OOPs.ModifiersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OOPs.OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin-Basics" />
       <option name="VM_PARAMETERS" />
@@ -104,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs.SimpleClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="OOPs.SimpleClassKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.OOPs.InterfaceKt" />
+        <item itemvalue="Kotlin.OOPs.ModifiersKt" />
         <item itemvalue="Kotlin.OOPs.OverridingKt" />
+        <item itemvalue="Kotlin.OOPs.InterfaceKt" />
         <item itemvalue="Kotlin.OOPs.InheritanceKt" />
         <item itemvalue="Kotlin.OOPs.ConstructorKt" />
-        <item itemvalue="Kotlin.OOPs.SimpleClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +154,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

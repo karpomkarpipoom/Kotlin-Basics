@@ -34,6 +34,7 @@ interface calc {
 
 class BMW : message, calc {
 
+    internal var value = "facebook"
     override fun WelcomeMessage(){
         println("Welcome to the BMW world")
     }
@@ -50,6 +51,7 @@ class Ford : message, calc {
 fun main() {
 
     val bmw = BMW()
+
     bmw.WelcomeMessage()
     println(bmw.helloWorld)
     bmw.WelcomeMessage()
@@ -64,6 +66,5 @@ fun main() {
     println("----- ford -----")
     ford.WelcomeMessage()
     println(totalAmount)
-
 
 }
