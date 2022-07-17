@@ -22,5 +22,4 @@ for (movie in MapValues.keys){
     for (Movies in MapValues.values){
         println("Rajini sir Movies List by values " + Movies)
     }
-
 }

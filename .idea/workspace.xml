@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5715f738-f664-4bc3-abcb-d801e079e233" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Modifiers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/META-INF/Kotlin-Basics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/META-INF/Kotlin-Basics.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/BMW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CalCOverRiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CalCOverRiding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CarOverRiding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/CarOverRiding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/Ford.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/Ford.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/InterfaceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/InterfaceKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/OverridingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/OverridingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/calc$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/calc$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/message$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Basics/OOPs/message$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs/Interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Interface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs/Overriding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs/Overriding.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap.kt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +21,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1UDzWMCqoCrcamA5kEz8guwL1D9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/bala/Documents/Git-Karpom/Kotlin-Basics"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="Class" />
@@ -48,80 +46,38 @@
       <recent name="$PROJECT_DIR$/src/Class" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Kotlin.OOPs.ModifiersKt">
-    <configuration name="OOPs.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="OOPs.ConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs.ConstructorKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs.InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="OOPs.InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs.InheritanceKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="OOPs.InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs.InterfaceKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs.ModifiersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="OOPs.ModifiersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs.ModifiersKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPs.OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin-Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="OOPs.OverridingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs.OverridingKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="Kotlin-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +92,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -154,9 +111,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
